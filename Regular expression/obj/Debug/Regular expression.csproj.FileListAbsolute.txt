@@ -1,0 +1,9 @@
+c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\bin\Debug\Regular expression.exe.config
+c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\bin\Debug\Regular expression.exe
+c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\bin\Debug\Regular expression.pdb
+c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\obj\Debug\Regular expression.csprojResolveAssemblyReference.cache
+c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\obj\Debug\Regular_expression.Form1.resources
+c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\obj\Debug\Regular_expression.Properties.Resources.resources
+c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\obj\Debug\Regular expression.csproj.GenerateResource.Cache
+c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\obj\Debug\Regular expression.exe
+c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\obj\Debug\Regular expression.pdb
