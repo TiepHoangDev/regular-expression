@@ -63,8 +63,8 @@ namespace Regular_expression
             finally
             {
                 top.Stop();
-                lblStatus.Text = DateTime.Now.ToShortTimeString() + ">> Done";
-                lblTime.Text = top.ElapsedMilliseconds.ToString() + " ms";
+                lblStatus.Text = DateTime.Now.ToLongTimeString() + ">> Done";
+                lblTime.Text = string.Format("{0} ms ~ {1} ticks | {2}/{3}={4}", top.ElapsedMilliseconds, top.ElapsedTicks, top.ElapsedTicks, top.ElapsedMilliseconds, top.ElapsedMilliseconds == 0 ? 0 : top.ElapsedTicks / top.ElapsedMilliseconds);
             }
         }
 
