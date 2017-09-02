@@ -63,9 +63,9 @@ namespace Regular_expression.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap regex2 {
+        internal static System.Drawing.Bitmap Anchors {
             get {
-                object obj = ResourceManager.GetObject("regex2", resourceCulture);
+                object obj = ResourceManager.GetObject("Anchors", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,89 @@ namespace Regular_expression.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap regular_expresstion {
+        internal static System.Drawing.Bitmap Backreference_Constructs {
             get {
-                object obj = ResourceManager.GetObject("regular expresstion", resourceCulture);
+                object obj = ResourceManager.GetObject("Backreference_Constructs", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Basic {
+            get {
+                object obj = ResourceManager.GetObject("Basic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Character_Classes {
+            get {
+                object obj = ResourceManager.GetObject("Character_Classes", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Character_Escapes {
+            get {
+                object obj = ResourceManager.GetObject("Character_Escapes", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Grouping_Constructs {
+            get {
+                object obj = ResourceManager.GetObject("Grouping_Constructs", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Miscellaneous_Constructs {
+            get {
+                object obj = ResourceManager.GetObject("Miscellaneous_Constructs", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Quantifiers {
+            get {
+                object obj = ResourceManager.GetObject("Quantifiers", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Regular_Expression_Options {
+            get {
+                object obj = ResourceManager.GetObject("Regular_Expression_Options", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Substitutions {
+            get {
+                object obj = ResourceManager.GetObject("Substitutions", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

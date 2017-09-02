@@ -84,6 +84,33 @@
   <ItemGroup>
     <None Include="Resources\regex2.PNG" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Miscellaneous Constructs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Regular Expression Options.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Substitutions.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backreference Constructs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quantifiers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grouping Constructs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anchors.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Character Classes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Character Escapes.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
