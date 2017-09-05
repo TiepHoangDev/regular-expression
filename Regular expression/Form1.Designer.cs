@@ -62,7 +62,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(804, 530);
+            this.panel1.Size = new System.Drawing.Size(804, 525);
             this.panel1.TabIndex = 0;
             // 
             // panel2
@@ -71,9 +71,9 @@
             this.panel2.Controls.Add(this.panel3);
             this.panel2.Controls.Add(this.statusStrip1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(0, 530);
+            this.panel2.Location = new System.Drawing.Point(0, 525);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(804, 68);
+            this.panel2.Size = new System.Drawing.Size(804, 73);
             this.panel2.TabIndex = 1;
             // 
             // statusStrip1
@@ -83,7 +83,7 @@
             this.lblCount,
             this.lblTime,
             this.lblDatetime});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 44);
+            this.statusStrip1.Location = new System.Drawing.Point(0, 49);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Size = new System.Drawing.Size(804, 24);
             this.statusStrip1.TabIndex = 8;
@@ -153,7 +153,7 @@
             this.lvResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lvResult.Location = new System.Drawing.Point(0, 34);
             this.lvResult.Name = "lvResult";
-            this.lvResult.Size = new System.Drawing.Size(804, 10);
+            this.lvResult.Size = new System.Drawing.Size(804, 15);
             this.lvResult.TabIndex = 10;
             this.lvResult.UseCompatibleStateImageBehavior = false;
             // 
@@ -222,7 +222,7 @@
             this.pictureBox1.Image = global::Regular_expression.Properties.Resources.regex2;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(804, 530);
+            this.pictureBox1.Size = new System.Drawing.Size(804, 525);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;

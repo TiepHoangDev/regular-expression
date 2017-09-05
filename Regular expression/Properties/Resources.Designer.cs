@@ -73,6 +73,16 @@ namespace Regular_expression.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap regex21 {
+            get {
+                object obj = ResourceManager.GetObject("regex21", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap regular_expresstion {
             get {
                 object obj = ResourceManager.GetObject("regular expresstion", resourceCulture);
