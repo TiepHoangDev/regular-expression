@@ -31,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>if_simpline_23_2305631.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -85,7 +88,38 @@
     <None Include="Resources\regex2.PNG" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <None Include="Resources\regex21.PNG" />
+=======
+    <None Include="Resources\Miscellaneous Constructs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Regular Expression Options.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Substitutions.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backreference Constructs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Quantifiers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grouping Constructs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Anchors.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Character Classes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Character Escapes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="if_simpline_23_2305631.ico" />
+>>>>>>> 6d5b217efa31a75b15642d20b4f91b30306d3c8e
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

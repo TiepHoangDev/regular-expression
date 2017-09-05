@@ -7,3 +7,12 @@ c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regula
 c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\obj\Debug\Regular expression.csproj.GenerateResource.Cache
 c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\obj\Debug\Regular expression.exe
 c:\users\hp-imic\documents\visual studio 2013\Projects\Regular expression\Regular expression\obj\Debug\Regular expression.pdb
+C:\Users\LENOVO\Source\Repos\regular-expression\Regular expression\bin\Debug\Regular expression.exe.config
+C:\Users\LENOVO\Source\Repos\regular-expression\Regular expression\obj\Debug\Regular expression.exe
+C:\Users\LENOVO\Source\Repos\regular-expression\Regular expression\obj\Debug\Regular expression.pdb
+C:\Users\LENOVO\Source\Repos\regular-expression\Regular expression\bin\Debug\Regular expression.exe
+C:\Users\LENOVO\Source\Repos\regular-expression\Regular expression\bin\Debug\Regular expression.pdb
+C:\Users\LENOVO\Source\Repos\regular-expression\Regular expression\obj\Debug\Regular expression.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Source\Repos\regular-expression\Regular expression\obj\Debug\Regular_expression.Form1.resources
+C:\Users\LENOVO\Source\Repos\regular-expression\Regular expression\obj\Debug\Regular_expression.Properties.Resources.resources
+C:\Users\LENOVO\Source\Repos\regular-expression\Regular expression\obj\Debug\Regular expression.csproj.GenerateResource.Cache

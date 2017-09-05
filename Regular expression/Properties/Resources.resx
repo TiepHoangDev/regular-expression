@@ -118,13 +118,39 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="regular expresstion" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\regular expresstion.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="regex2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="Basic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\regex2.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< HEAD
   <data name="regex21" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\regex21.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="Anchors" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Anchors.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Backreference_Constructs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Backreference Constructs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Character_Classes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Character Classes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Character_Escapes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Character Escapes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Grouping_Constructs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Grouping Constructs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Miscellaneous_Constructs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Miscellaneous Constructs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Quantifiers" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Quantifiers.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Regular_Expression_Options" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Regular Expression Options.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Substitutions" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Substitutions.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> 6d5b217efa31a75b15642d20b4f91b30306d3c8e
   </data>
 </root>
